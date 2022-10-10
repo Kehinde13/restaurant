@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/restaurant/static/css/main.26c5b6e4.css",
+    "main.js": "/restaurant/static/js/main.dc69cde7.js",
+    "static/media/stew.jpg": "/restaurant/static/media/stew.e2a7175cadeec52ad7d8.jpg",
+    "static/media/curry.jpg": "/restaurant/static/media/curry.98aee70e374e4d10b666.jpg",
+    "static/media/noodles.jpg": "/restaurant/static/media/noodles.c883610038339e85877e.jpg",
+    "static/media/logo.png": "/restaurant/static/media/logo.f576953aa5d41f8b3309.png",
+    "index.html": "/restaurant/index.html",
+    "main.26c5b6e4.css.map": "/restaurant/static/css/main.26c5b6e4.css.map",
+    "main.dc69cde7.js.map": "/restaurant/static/js/main.dc69cde7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26c5b6e4.css",
+    "static/js/main.dc69cde7.js"
+  ]
+}
