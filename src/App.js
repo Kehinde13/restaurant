@@ -11,6 +11,7 @@ function App() {
   let cards = data.map(item => {
       return (
         <Booking 
+            key={item}
             item= {item}
         />    
       )

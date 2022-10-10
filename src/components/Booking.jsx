@@ -1,4 +1,5 @@
 import React from 'react'
+import BookingImg from '../images/image-intro-desktop.jpg'
 
 function Booking(props) {
  let badgeText
@@ -12,7 +13,7 @@ function Booking(props) {
     <div>
          <div className='bookings'>
              <div className='badge'>{badgeText}</div>
-            <img src={`../images/${props.item.img}`} alt="family" />
+            <img src={BookingImg} alt="family" />
             <div>
                <p className='title'>{props.item.title}</p>
                <p className='reservation'>{props.item.reservation}</p> 
